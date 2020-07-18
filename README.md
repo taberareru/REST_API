@@ -1,6 +1,9 @@
 # rest-api-stores
 ### https://rest-api-store-user.herokuapp.com/
 
-·	Used Flask-RESTful, Flask-JWT and Flask-SQLAlchemy to deveop REST APIs including registration, authentication and CRUD (Create, Read, Update, Delete).
+Developped REST APIs including registration, authentication and CRUD (Create, Read, Update, Delete).
 
-·	Deployed the Flask apps to Heroku
+-	Used Flask-RESTful
+- Flask-JWT
+- Flask-SQLAlchemy to 
+-	Deployed the Flask apps to Heroku
